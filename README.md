@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-A beginner-friendly cybersecurity tool written in Python that analyzes how strong a password is. It's a great first project for learning the fundamentals of application security and defensive tooling.
+A cybersecurity tool written in Python that analyzes how strong a password is.
 
 ## Features
 

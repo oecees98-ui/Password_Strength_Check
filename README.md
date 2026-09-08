@@ -66,11 +66,4 @@ password-strength-checker/
 └── README.md
 ```
 
-## Possible Improvements (good "next steps" to show growth)
-- Load a much larger breached-password corpus (e.g. Have I Been Pwned's list)
-- Add a simple Tkinter or web (Flask) front end
-- Integrate the [zxcvbn](https://github.com/dropbox/zxcvbn) library for more realistic strength estimates
-- Add unit tests with `pytest`
 
-## License
-MIT License — free to use for learning and portfolio purposes.
